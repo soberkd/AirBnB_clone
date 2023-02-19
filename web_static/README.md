@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Dennis Maritim** - [aysuarex](https://github.com/soberkd)
+* **Dennis Maritim** - [soberkd](https://github.com/soberkd)
