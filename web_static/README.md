@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Tolulope Fakunle** - [aysuarex](https://github.com/Tolulope05)
+* **Dennis Maritim** - [aysuarex](https://github.com/soberkd)
